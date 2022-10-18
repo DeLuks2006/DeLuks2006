@@ -1,8 +1,6 @@
-## Hello and Welcome to my ReadMe!
+## Hi, I’m DeLuks 👋
 
-- Hi, I’m DeLuks 👋
-- I’m interested in Programming 💻
-- I’m currently learning ~~Javascript~~ **MORE PYTHON.** 👍
+- 
 
 
 <!---
