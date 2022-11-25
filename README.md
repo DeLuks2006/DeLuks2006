@@ -1,3 +1,4 @@
+![Banner](https://github.com/DeLuks2006/banner/blob/main/banner%20copy.png)
 # Hey there! :wave:
 ### Who am I?
 - I'm DeLuks. I am a "06" kid that likes to code and make cool stuff with PCs. 
@@ -24,3 +25,8 @@
 - Pentesting, CS and networking :computer:
 - Game developing :joystick:
 - Operating systems (e.g. Linux Distros) :penguin:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeLuks2006&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeLuks2006&theme=transparent)](https://github.com/DeLuks2006/github-readme-stats)
+
+(credit to Anurag)
