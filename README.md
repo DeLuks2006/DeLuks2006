@@ -28,5 +28,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeLuks2006&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeLuks2006&theme=graywhite)](https://github.com/DeLuks2006/github-readme-stats)
-
-(credit to Anurag)
