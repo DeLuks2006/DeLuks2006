@@ -10,13 +10,12 @@
 - Learning stuff :book:
 
 ### What programming languages do I know / want to learn?
-- [x] Python (Basics and a few modules)
-- [x] JavaScript (Just basics)
+- [x] Python (Basics)
 - [ ] C
 - [ ] C#
 - [ ] C++
 - [ ] GO!
-- [ ] Bash
+- [x] Bash (Basics)
 
 (I also know some HTML and CSS basics)
 
