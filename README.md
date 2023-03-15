@@ -1,8 +1,8 @@
 
 # Hey there! :wave:
 ### Who am I?
-- I'm DeLuks. I am a "06" kid that likes to code and make cool stuff with PCs. 
-- I started programing in  late 2020 and want to learn as much as possible!
+- I'm DeLuks. I am a "06" kid that likes to code useless stuff. 
+- I started programing in late 2020 and want to learn as much as possible!
 
 ### What are my interests?
 - Art / design ( I do art traditionally ) :pencil:
@@ -16,8 +16,6 @@
 - [ ] C++
 - [ ] GO!
 - [x] Bash (Basics)
-
-(I also know some HTML and CSS basics)
 
 ### Some things I want to learn more about
 
