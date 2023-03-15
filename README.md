@@ -1,4 +1,4 @@
-![Banner](https://github.com/DeLuks2006/banner/blob/main/banner%20copy.png)
+
 # Hey there! :wave:
 ### Who am I?
 - I'm DeLuks. I am a "06" kid that likes to code and make cool stuff with PCs. 
