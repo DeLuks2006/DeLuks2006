@@ -7,7 +7,7 @@
 ### What are my interests?
 - Art / design ( I do art traditionally ) :pencil:
 - Coding ( more specifically developing games and programs, pentesting / CS ) :computer:
-- Learning stuff :book:
+- Learning stuff in general :book:
 
 ### What programming languages do I know / want to learn?
 - [x] Python (Basics)
