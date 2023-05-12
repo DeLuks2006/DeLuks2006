@@ -11,11 +11,12 @@
 
 ### What programming languages do I know / want to learn?
 - [x] Python (Basics)
-- [ ] C
+- [x] Bash (Basics)
+- [x] C (currently learning)
 - [ ] C#
 - [ ] C++
 - [ ] GO!
-- [x] Bash (Basics)
+
 
 ### Some things I want to learn more about
 
