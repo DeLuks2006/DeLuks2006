@@ -21,8 +21,8 @@
 ### Some things I want to learn more about
 
 - Pentesting, CS and networking :computer:
-- Game developing :joystick:
-- Operating systems (e.g. Linux Distros) :penguin:
+- Game development :joystick:
+- Operating systems :penguin:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeLuks2006&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeLuks2006&theme=graywhite)](https://github.com/DeLuks2006/github-readme-stats)
