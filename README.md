@@ -14,9 +14,7 @@
 - [x] Bash (Basics)
 - [x] C (currently learning)
 - [ ] C#
-- [ ] C++
 - [ ] GO!
-
 
 ### Some things I want to learn more about
 
