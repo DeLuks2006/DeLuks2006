@@ -1,11 +1,11 @@
 
 # Hey there! :wave:
 ### Who am I?
-- I'm DeLuks. I am a "06" kid that likes to code useless stuff. 
+- I'm DeLuks. I am a "06" kid that likes to code simple programs. 
 - I started programing in late 2020 and want to learn as much as possible!
 
 ### What are my interests?
-- Art / design ( I do art traditionally ) :pencil:
+- Art ( I do art traditionally ) :pencil:
 - Coding ( more specifically developing games and programs, pentesting / CS ) :computer:
 - Learning stuff in general :book:
 
