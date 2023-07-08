@@ -5,8 +5,8 @@
 - I started programing in late 2020 and want to learn as much as possible!
 
 ### What are my interests?
-- Art ( I do art traditionally ) :pencil:
-- Coding ( more specifically developing games and programs, pentesting / CS ) :computer:
+- Art :pencil:
+- Coding ( more specifically developing programs, pentesting / CS ) :computer:
 - Learning stuff in general :book:
 
 ### What programming languages do I know / want to learn?
@@ -19,7 +19,6 @@
 ### Some things I want to learn more about
 
 - Pentesting, CS and networking :computer:
-- Game development :joystick:
 - Operating systems :penguin:
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/646cc448cb6301e67f896dc8?variant=dark)](https://roadmap.sh)
