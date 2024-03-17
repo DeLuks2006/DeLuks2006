@@ -1,6 +1,9 @@
 <h1 align=center>Just a Nerd...</h1>
 
-Mainly programming in C/C++.
+<p align=center><i>That guy that mainly codes in C/C++.</i></p>
+
+> [!CAUTION]
+> **Code may contain hunderds of security vulnerabilities and bad practices. 😱😱😱**
 
 ## Stats:
 
