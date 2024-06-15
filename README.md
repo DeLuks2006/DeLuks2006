@@ -4,5 +4,5 @@
 
 ## Stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeLuks2006&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeLuks2006&theme=transparent&exclude_repo=deluks2006.github.io,dot-files,SimpleSite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeLuks2006&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeLuks2006&theme=dark&exclude_repo=deluks2006.github.io,dot-files,SimpleSite)
