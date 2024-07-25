@@ -2,11 +2,16 @@
 
 <p align=center><i>That guy that mainly codes in C/C++.</i></p>
 
+## Mini-About:
+- Mainly interested in offensive security and low level programming.
+- Mostly use C, ASM and Go.
+
 ## Stats:
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeLuks2006&theme=dark" style="height: 200px; width: auto; margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLuks2006&theme=dark&exclude_repo=deluks2006.github.io,dot-files,SimpleSite,Purr-Fetch,DNA-Quote-Bot" style="height: 200px; width: auto; margin: 0 auto;">
-</div>
+<p align="center">
+    <img src="https://github-readme-streak-stats-woad.vercel.app?user=DeLuks2006&theme=dark"/>
+</p>
+<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLuks2006&count_private=true&layout=compact&theme=dark&exclude_repo=deluks2006.github.io,dot-files,SimpleSite,Purr-Fetch,DNA-Quote-Bot" width = 500px />
 
 ## Skills
 <div align=center>
