@@ -15,5 +15,5 @@
 
 ## Skills
 <div align=center>
-  <img src="https://skillicons.dev/icons?i=c,go,neovim,mysql,py,arch,debian" />
+  <img src="https://skillicons.dev/icons?i=c,go,sqlite,neovim,mysql,py,arch,debian" />
 </div>
