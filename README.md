@@ -2,9 +2,27 @@
 
 <p align=center><i>That guy that mainly codes in C/C++.</i></p>
 
-## Mini-About:
-- Mainly interested in offensive security and low level programming.
-- Mostly use C, ASM and Go.
+```css
+┌[deluks@baltazar]-(~)
+└> about-fetch
+```
+<div style="display:block;text-align:left">
+    <img align="left" src="https://wiki.archlinux.de/images/thumb/Archicon.svg/600px-Archicon.svg.png?20210903191857" border="0" style="width:156px;">
+  
+  ```sh
+  deluks@baltazar
+  -----------------
+  Name: DeLuks
+  OS: Arch Linux / Windows 11
+  Languages: ["C", "ASM", "Python",
+              "Go", "ST/SCL", "SQL"]
+
+  Interests: ["Malware Analysis", "Linux", "Windows Internals",
+              "Malware Dev", "ASCII Art", "Driver Development"]
+
+  Uptime: 18 Years
+  ```
+</div>
 
 ## Stats:
 <p align="center">
