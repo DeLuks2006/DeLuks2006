@@ -33,5 +33,5 @@
 
 ## Skills
 <div align=center>
-  <img src="https://skillicons.dev/icons?i=c,go,sqlite,neovim,mysql,py,arch,debian" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,htmx,sqlite,mysql,linux,windows" />
 </div>
